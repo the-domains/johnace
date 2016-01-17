@@ -1,0 +1,28 @@
+name: johnace
+favicon: null
+layout_spectrum: 0.8905849859584123
+typography_spectrum: 0.689625424798578
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#f6f6f4'
+    - '#1e1333'
+    - '#b19774'
+    - '#4443f2'
+    - '#f8c98e'
+  brandStrength: 0.692325304960832
+  lightness: 0.9881267799064517
+  saturation: 0.9892567205242813
+  rhythmicContrast: 0.7046944475732744
+purpose: []
